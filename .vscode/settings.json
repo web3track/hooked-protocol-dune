@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "Prettier-SQL.SQLFlavourOverride": "spark",
+    "Prettier-SQL.ignoreTabSettings": true,
+    "Prettier-SQL.tabSizeOverride": 2,
+}
